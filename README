@@ -1,0 +1,20 @@
+#to run on GNU/Linux
+make fun
+#
+MATH
+├── BCIBMPC.BAS
+├── BIGO.BAS
+├── CONIC.BAS
+├── EUCLID.BAS
+├── FUN.BC
+├── FUNVC20BC.BAS
+├── graphics.txt
+├── Makefile
+├── mandelbrot.png
+├── MB.BAS
+├── PARA.BAS
+├── PDIST2.BAS
+├── README
+└── SMALLO.BAS
+
+0 directories, 14 files
